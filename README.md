@@ -47,7 +47,7 @@ Este repositorio contiene el desarrollo de un simulador que modela la aparición
 ## 🎬 Video Demostrativo
 
 ➡️ [Ver video](#)  
-*(https://youtu.be/qdF7VOlu460)*
+*https://youtu.be/qdF7VOlu460*
 
 ---
 
