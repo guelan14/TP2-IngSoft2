@@ -1,0 +1,8 @@
+Riesgo: Retraso en la entrega del código
+Probabilidad: 0.65
+Impacto: 7
+Prioridad: 4.55 (Medio)
+Estrategia: 1. Implementar pruebas unitarias y de integración automatizadas para detectar errores tempranamente.
+2. Utilizar metodologías ágiles y sprints cortos para mejorar la adaptabilidad y gestión de tiempos.
+3. Realizar revisiones de código periódicas para garantizar calidad y reducir errores que puedan retrasar el proyecto.
+
